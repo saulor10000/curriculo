@@ -21,19 +21,16 @@ Introspectivo e dedicado com pessamentos e abordagens que possam no mínimo te f
 
 Prefiro a utilização de técnologias abertas para a construção de um ambiente distribuido e automatizado como:
 
-<img src="https://user-images.githubusercontent.com/61712241/110947019-631c7900-831e-11eb-9ee7-edbaff142219.png" width="48">
-
-![imagem](https://user-images.githubusercontent.com/61712241/110947019-631c7900-831e-11eb-9ee7-edbaff142219.png)
+<img src="https://user-images.githubusercontent.com/61712241/110947019-631c7900-831e-11eb-9ee7-edbaff142219.png" width="50" height="50">
 
 [Docker](https://www.docker.com/)
 
-![imagem](https://user-images.githubusercontent.com/61712241/110947113-81827480-831e-11eb-9b8c-ea7f169bf4e5.png)
+<img src="https://user-images.githubusercontent.com/61712241/110947113-81827480-831e-11eb-9b8c-ea7f169bf4e5.png" width="50" height="50">
 
 [NodeJS](https://nodejs.org/)
 
 Com conhecimentos em:
-
-![imagem](https://user-images.githubusercontent.com/61712241/110947348-cb6b5a80-831e-11eb-801a-29d1d86676a8.png)
+<img src="https://user-images.githubusercontent.com/61712241/110947348-cb6b5a80-831e-11eb-801a-29d1d86676a8.png" width="50" height="50">
 
 [Phyton](https://pt.wikipedia.org/wiki/Python)
 
