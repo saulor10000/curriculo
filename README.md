@@ -22,23 +22,17 @@ Introspectivo e dedicado com pessamentos e abordagens que possam no mínimo te f
 Prefiro a utilização de técnologias abertas para a construção de um ambiente distribuido e automatizado como:
 
 <img src="https://user-images.githubusercontent.com/61712241/110947019-631c7900-831e-11eb-9ee7-edbaff142219.png" width="50" height="50">
-
-[Docker](https://www.docker.com/)
-
 <img src="https://user-images.githubusercontent.com/61712241/110947113-81827480-831e-11eb-9b8c-ea7f169bf4e5.png" width="50" height="50">
 
-[NodeJS](https://nodejs.org/)
+Site oficial do [Docker](https://www.docker.com/)
+
+Site oficial do [NodeJS](https://nodejs.org/)
 
 Com conhecimentos em:
 
 <img src="https://user-images.githubusercontent.com/61712241/110947348-cb6b5a80-831e-11eb-801a-29d1d86676a8.png" width="50" height="50">
-
-[Phyton](https://pt.wikipedia.org/wiki/Python)
-
 <img src="https://user-images.githubusercontent.com/61712241/110947462-f48beb00-831e-11eb-9643-df14aa8c1f6b.png" width="50" height="50">
-
-[Javascript](https://pt.wikipedia.org/wiki/JavaScript)
-
 <img src="https://user-images.githubusercontent.com/61712241/110949670-a1676780-8321-11eb-922d-fd1e4f159dcd.png" width="50" height="50">
 
-[Microsoft Office](https://pt.wikipedia.org/wiki/Microsoft_Office)
+Tudo sobre [Phyton](https://pt.wikipedia.org/wiki/Python), [Javascript](https://pt.wikipedia.org/wiki/JavaScript), [Microsoft Office](https://pt.wikipedia.org/wiki/Microsoft_Office)
+
