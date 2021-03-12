@@ -20,7 +20,7 @@ Introspectivo e dedicado com pessamentos e abordagens que possam no mínimo te f
 
 Prefiro a utilização de técnologias abertas para a construção de um ambiente distribuido e automatizado.
 
-![Image](https://www.instagram.com/p/CLkw54VBENb/?utm_source=ig_web_button_share_sheet)
+![Image](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVB935wq8VvM&psig=AOvVaw0xVytBoYwf-OAqWxcBndYj&ust=1615641502640000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDwl47Eou8CFQAAAAAdAAAAABAD)
 
 ## Welcome to GitHub Pages
 
