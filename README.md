@@ -20,6 +20,7 @@ Introspectivo e dedicado com pessamentos e abordagens que possam no mínimo te f
 
 Prefiro a utilização de técnologias abertas para a construção de um ambiente distribuido e automatizado como:
 
+![imagem](https://user-images.githubusercontent.com/61712241/110947019-631c7900-831e-11eb-9ee7-edbaff142219.png)
 ![imagem](https://user-images.githubusercontent.com/61712241/110946858-2d779000-831e-11eb-9eba-8f733a776354.png)
 
 
