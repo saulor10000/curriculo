@@ -12,6 +12,12 @@ Segue abaixo meu currículo e o [site](https://saulor10000.github.io/curriculo/)
 
 Atenciosamente, Saulo Rodrigues Oliveira -  (00) 90000-0000 -  (00) 91111-1111.
 
+## Um pouco sobre mim
+
+[Image](https://www.instagram.com/p/CLkw54VBENb/)
+[Image](https://www.instagram.com/p/CKxThtgBIR5/)
+[Image](https://www.instagram.com/p/CKcmk3vF4ex/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saulor10000/curriculo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
