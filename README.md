@@ -36,3 +36,12 @@ Com conhecimentos em:
 
 Tudo sobre [Phyton](https://pt.wikipedia.org/wiki/Python), [Javascript](https://pt.wikipedia.org/wiki/JavaScript), [Microsoft Office](https://pt.wikipedia.org/wiki/Microsoft_Office)
 
+## Projetos em que sou voluntário
+
+freeCodeCamp.org é uma comunidade que oferece ajuda para milhares de pessoas que querem começar no mundo do desenvolvimento, eu ajudo na divulgação do conteúdo do site e da plataforma.
+
+![imagem](https://user-images.githubusercontent.com/61712241/110954478-4c2e5480-8327-11eb-9c7a-c7c1c688097e.png)
+
+O deepin é uma distribuição Linux baseada no Debian Stable. Apresenta uma interface própria, chamada Deepin Desktop Environment; além de, uma acervo de aplicações próprias.
+
+![imagem](https://user-images.githubusercontent.com/61712241/110955209-1d64ae00-8328-11eb-86b2-941ff432d441.png)
