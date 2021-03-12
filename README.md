@@ -14,9 +14,13 @@ Atenciosamente, Saulo Rodrigues Oliveira -  (00) 90000-0000 -  (00) 91111-1111.
 
 ## Um pouco sobre mim
 
-[Image](https://www.instagram.com/p/CLkw54VBENb/)
-[Image](https://www.instagram.com/p/CKxThtgBIR5/)
-[Image](https://www.instagram.com/p/CKcmk3vF4ex/)
+[Instagram](https://www.instagram.com/oliveirasaulorodrigues/)
+
+Introspectivo e dedicado com pessamentos e abordagens que possam no mínimo te fazer pensar em possibilidades diferentes.
+
+Prefiro a utilização de técnologias abertas para a construção de um ambiente distribuido e automatizado.
+
+![Image](https://www.instagram.com/p/CLkw54VBENb/)
 
 ## Welcome to GitHub Pages
 
