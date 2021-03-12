@@ -13,9 +13,9 @@ Segue abaixo meu currículo e o [site](https://saulor10000.github.io/curriculo/)
 Atenciosamente, Saulo Rodrigues Oliveira -  (00) 90000-0000 -  (00) 91111-1111.
 
 ## Um pouco sobre mim
+![imagem](https://user-images.githubusercontent.com/61712241/110948063-a9260c80-831f-11eb-974f-452a93b29acc.png)
 
 [Instagram](https://www.instagram.com/oliveirasaulorodrigues/)
-![imagem](https://user-images.githubusercontent.com/61712241/110948063-a9260c80-831f-11eb-974f-452a93b29acc.png)
 
 Introspectivo e dedicado com pessamentos e abordagens que possam no mínimo te fazer pensar em possibilidades diferentes.
 
