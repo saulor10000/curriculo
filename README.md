@@ -1,3 +1,17 @@
+## Sejam bem vindos
+
+Bom dia, Boa Tarde ou Boa noite.
+
+Meu nome é Saulo Rodrigues, tenho 22 anos, concluí o ensino técnico em informática, o ensino superior em Matemática junto com o ensino superior em Computação na Universidade Federal do Ceará. Trabalhei como assistente de Tecnologia da informação na SuporteRH pelo período de um ano.
+
+Tenho interesse na vaga de Assistente TI e acredito que posso contribuir com minhas competências e disponibilidade em aprender.
+
+Competências: Concentração, Disciplina, Iniciativa, Relação Interpessoal, Coordenação.
+
+Segue abaixo meu currículo e o [site](https://saulor10000.github.io/curriculo/) no qual eu gerencio e trabalho para sua avaliação, e me coloco à disposição para conversarmos pessoalmente.
+
+Atenciosamente, Saulo Rodrigues Oliveira -  (00) 90000-0000 -  (00) 91111-1111.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saulor10000/curriculo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
